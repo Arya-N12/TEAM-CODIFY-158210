@@ -23,6 +23,7 @@ Generate comprehensive project reports.
 Provide analytics for administrative decision-making.
 Maintain structured monitoring and verification records.
 ✨ Key Features
+
 🔐 1. Admin Authentication
 
 The system provides an administrator login system with:
@@ -33,6 +34,7 @@ Password hashing using bcrypt
 Protected authentication routes
 Administrator profile information
 Secure environment-based configuration
+
 📊 2. Government Dashboard
 
 The main dashboard provides a centralized overview of the monitoring system.
@@ -260,6 +262,7 @@ Project information
 Inspection information
 Assigned inspector
 Verification session
+
 📑 13. Reports
 
 The Reports module provides detailed NGO and project reports.
