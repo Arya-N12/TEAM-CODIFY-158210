@@ -1,4 +1,24 @@
-Drishti360 – Smart Inspection & Monitoring System
+# Drishti360 - Smart Inspection & Monitoring System
+### By Team CODIFY (158210)
+
+[![YouTube Presentation](https://img.shields.io/badge/YouTube-Video_Presentation-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/AnqudR6177E?si=J5--I8Wi2eW79oS6)
+[![Live Website Prototype](https://img.shields.io/badge/Website-Live_Prototype-0052FF?style=for-the-badge&logo=vercel&logoColor=white)](https://drishti360.onrender.com/)
+[![Download APK](https://img.shields.io/badge/APK-Download_Prototype-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1QRNk6M1IF1ViZFZCOvNc_yqt1804pk-p/view?usp=sharing)
+
+---
+
+## 👥 Team CODIFY
+
+| Name | Role / Contribution |
+|------|--------------------|
+| **Arya Pritam Nangude** | Backend Developer |
+| **Gayatri Mukchand Karkhile** | Backend Developer |
+| **Sakib Samir Tamboli** | AI/ML Developer |
+| **Atreya Ashish Kshirsagar** | Frontend UI/UX & RAG Model Developer |
+| **Jiya Irfan Shahadivan** | Android/Kotlin Developer |
+| **Kapil Chandrashekhar Sorte** | Flutter Developer |
+
+---
 📌 Project Overview
 
 Drishti360 is a MERN-based Smart Inspection & Monitoring System designed to provide a centralized platform for monitoring NGO-funded projects, field inspections, project verification, risk alerts, CCTV monitoring, analytics, video verification, and reporting.
